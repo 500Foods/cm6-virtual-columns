@@ -18,14 +18,14 @@ that this isn't the only way to do things.
 [![Count Lines of Code](https://github.com/500Foods/cm6-scroller/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/cm6-scroller/actions/workflows/main.yml)
 <!--CLOC-START -->
 ```cloc
-Last updated at 2026-05-03 23:27:55 UTC
+Last updated at 2026-05-03 23:36:12 UTC
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Markdown                         2             94              4            334
+Markdown                         2             10              2             46
 YAML                             2              8             13             37
 -------------------------------------------------------------------------------
-SUM:                             4            102             17            371
+SUM:                             4             18             15             83
 -------------------------------------------------------------------------------
 2 Files were skipped (duplicate, binary, or without source code):
   gitattributes: 1
